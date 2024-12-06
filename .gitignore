@@ -1,0 +1,10 @@
+# Rust specifics
+/target
+**/*.rs.bk
+Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+.DS_Store
